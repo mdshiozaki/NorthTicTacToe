@@ -62,7 +62,6 @@
                             <button opaque="NO" tag="6" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Kgi-A8-hUa">
                                 <rect key="frame" x="290" y="428" width="108" height="108"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                                <state key="normal" title="Button"/>
                                 <connections>
                                     <action selector="gameTileTapped:" destination="BYZ-38-t0r" eventType="touchUpInside" id="N75-K4-8ns"/>
                                 </connections>
@@ -70,7 +69,6 @@
                             <button opaque="NO" tag="5" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="ftS-Gx-lww">
                                 <rect key="frame" x="151" y="428" width="108" height="108"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                                <state key="normal" title="Button"/>
                                 <connections>
                                     <action selector="gameTileTapped:" destination="BYZ-38-t0r" eventType="touchUpInside" id="89J-ji-ExT"/>
                                 </connections>
@@ -78,7 +76,6 @@
                             <button opaque="NO" tag="4" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="sZh-ko-vfe">
                                 <rect key="frame" x="12" y="428" width="108" height="108"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                                <state key="normal" title="Button"/>
                                 <connections>
                                     <action selector="gameTileTapped:" destination="BYZ-38-t0r" eventType="touchUpInside" id="5Ig-Br-gcN"/>
                                 </connections>
@@ -86,7 +83,6 @@
                             <button opaque="NO" tag="9" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="c1W-4L-naY">
                                 <rect key="frame" x="290" y="568" width="108" height="108"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                                <state key="normal" title="Button"/>
                                 <connections>
                                     <action selector="gameTileTapped:" destination="BYZ-38-t0r" eventType="touchUpInside" id="jfc-ol-xKc"/>
                                 </connections>
@@ -94,7 +90,6 @@
                             <button opaque="NO" tag="8" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="ybn-E1-CFN">
                                 <rect key="frame" x="151" y="568" width="108" height="108"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                                <state key="normal" title="Button"/>
                                 <connections>
                                     <action selector="gameTileTapped:" destination="BYZ-38-t0r" eventType="touchUpInside" id="2Px-cg-Nkx"/>
                                 </connections>
@@ -102,7 +97,6 @@
                             <button opaque="NO" tag="7" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Rsa-9k-D98">
                                 <rect key="frame" x="12" y="568" width="108" height="108"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                                <state key="normal" title="Button"/>
                                 <connections>
                                     <action selector="gameTileTapped:" destination="BYZ-38-t0r" eventType="touchUpInside" id="hcy-SD-ZlH"/>
                                 </connections>
@@ -110,7 +104,6 @@
                             <button opaque="NO" tag="3" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="hmm-sm-Q0x">
                                 <rect key="frame" x="290" y="290" width="108" height="108"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                                <state key="normal" title="Button"/>
                                 <connections>
                                     <action selector="gameTileTapped:" destination="BYZ-38-t0r" eventType="touchUpInside" id="OSq-6g-pj8"/>
                                 </connections>
@@ -118,7 +111,6 @@
                             <button opaque="NO" tag="2" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Nsw-KY-J0e">
                                 <rect key="frame" x="151" y="290" width="108" height="108"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                                <state key="normal" title="Button"/>
                                 <connections>
                                     <action selector="gameTileTapped:" destination="BYZ-38-t0r" eventType="touchUpInside" id="46W-Mk-2FT"/>
                                 </connections>
@@ -126,7 +118,6 @@
                             <button opaque="NO" tag="1" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Vry-xi-blN">
                                 <rect key="frame" x="12" y="290" width="108" height="108"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                                <state key="normal" title="Button"/>
                                 <connections>
                                     <action selector="gameTileTapped:" destination="BYZ-38-t0r" eventType="touchUpInside" id="nsW-SH-hGX"/>
                                 </connections>
